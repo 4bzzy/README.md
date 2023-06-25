@@ -18,5 +18,5 @@ class 4bzzy:
 if name == "main":
   4bzzy()
 
-check rhis out!
+check this out!
 https://lucidvoltzzy.netlify.app/
